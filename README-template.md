@@ -69,5 +69,5 @@ In the future I want to improve my skills in RWD.
 
 From @correlucas (frontendmentor.io):
 1. I should use max/min-width of container for better RWD, instead of fixed width property.
-2. I should use <picture> tag instead of solo <img> or background-image in CSS. Here is documentation of it: https://www.w3schools.com/tags/tag_picture.asp.
+2. I should use picture tag instead of solo img or background-image in CSS. Here is documentation of it: https://www.w3schools.com/tags/tag_picture.asp.
 3. I should use flexbox on for example semantic's tags, instead of creating additionals divs containers. It could shrink my HTML code.
