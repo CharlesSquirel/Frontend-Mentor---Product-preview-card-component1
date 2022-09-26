@@ -64,8 +64,7 @@ In the future I want to improve my skills in RWD.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- https://www.w3schools.com/tags/tag_picture.asp – Using <picture> tag documentation.
 
 ## Author
 
@@ -74,4 +73,7 @@ In the future I want to improve my skills in RWD.
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+From @correlucas (frontendmentor.io):
+1. I should use max/min-width of container for better RWD, instead of fixed width property.
+2. I should use <picture> tag instead of solo <img> or background-image in CSS. Here is documentation of it: https://www.w3schools.com/tags/tag_picture.asp.
+3. I should use flexbox on for example semantic's tags, instead of creating additionals divs containers. It could shrink my HTML code.
