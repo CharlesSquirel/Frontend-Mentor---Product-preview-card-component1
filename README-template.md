@@ -58,7 +58,7 @@ In the future I want to improve my skills in RWD.
 
 ### Useful resources
 
-- https://www.w3schools.com/tags/tag_picture.asp – Using <picture> tag documentation.
+- https://www.w3schools.com/tags/tag_picture.asp – Using picture tag documentation.
 
 ## Author
 
